@@ -19,7 +19,7 @@
 | 이름 | GitHub |
 |------|------|
 | 배성환 | [@pear-c](https://github.com/pear-c) |
-| 이희망 | [@GitHubID](https://github.com/heemanglee) |
+| 이희망 | [@heemanglee](https://github.com/heemanglee) |
 
 ---
 
